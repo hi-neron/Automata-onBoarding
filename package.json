@@ -1,13 +1,14 @@
 {
   "name": "gulp2017",
   "version": "1.0.0",
-  "description": "backbone for new projects",
+  "description": "backbone for new gulp projects",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "gulp": "gulp"
   },
   "author": "neron",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
